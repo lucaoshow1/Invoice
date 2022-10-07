@@ -1,3 +1,7 @@
+repositório criado para compartilhar exercícios resolvidos em Orientação a Objeto.
+
+
+
 Exercício 01: Crie uma classe chamada Invoice que possa ser utilizado por uma loja de suprimentos de informática para representar uma fatura de um item vendido na loja. Uma fatura deve incluir as seguintes informações como atributos
 
 número do item faturado,
